@@ -90,3 +90,7 @@ Este é um repositório de estudos pessoais, mas sugestões, dicas e melhorias s
 
 ⭐ Se este repositório for útil para você ou acompanhar sua própria jornada de aprendizado, considere deixar uma estrela.
 
+# Referencias 
+    
+    aqui esta todas as referecias de aprendizado que utilizei até o moemnto.
+
