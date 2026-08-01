@@ -94,3 +94,5 @@ Este é um repositório de estudos pessoais, mas sugestões, dicas e melhorias s
     
     aqui esta todas as referecias de aprendizado que utilizei até o moemnto.
 
+Udemy / Python Automatico - Aprenda a Programar e Automatizar do Zero
+    https://www.udemy.com/course/python-automatico-aprenda-a-programar-e-automatizar-do-zero/
