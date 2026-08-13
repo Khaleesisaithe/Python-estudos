@@ -198,6 +198,21 @@ if idade >= 15:
 # Receber uma nota e classificar a avaliação
 # do filme.
 
+#elif no Python
+#O elif (abreviação de else if) é usado para testar múltiplas condições em sequência.
+#
+#🎯 Por que usar?
+#Evita o efeito "escadinha" (vários if e else aninhados).
+#
+#Garante um código limpo, organizado e fácil de ler.
+#
+#⚙️ Regra de Ouro da Execução
+#O Python avalia as condições de cima para baixo e PARA no primeiro teste verdadeiro (True).
+#
+#Apenas um bloco de código será executado.
+#
+#Se o if for verdadeiro, todos os elif e o else abaixo são ignorados.
+
 
 nota = float(
     input("Qual nota você dá para esse filme? ")
@@ -242,7 +257,8 @@ else:
 # A ordem das condições é importante.
 #
 # O Python executa apenas o primeiro
-# bloco verdadeiro.
+# bloco verdadeiro. 
+
 
 
 # ==========================================================
